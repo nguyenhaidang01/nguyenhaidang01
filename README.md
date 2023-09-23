@@ -10,7 +10,7 @@ My name is Nguyen Hai Dang. I am a C++/Java Developer, majoring in Automotive En
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Car_Infotainment_Application&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Car_Infotainment_Application&theme=dark" />
 
 </a>    
 
@@ -18,6 +18,6 @@ My name is Nguyen Hai Dang. I am a C++/Java Developer, majoring in Automotive En
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Media_Player_Application&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Media_Player_Application&theme=dark" />
 
 </a>
