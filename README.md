@@ -6,3 +6,18 @@ My name is Nguyen Hai Dang. I am a C++/Java Developer, majoring in Automotive En
 ![](https://github-readme-stats.vercel.app/api?username=nguyenhaidang01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhaidang01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+<a href="https://github.com/nguyenhaidang01/Car_Infotainment_Application/">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Car_Infotainment_Application&theme=onedark" />
+
+</a>    
+
+<a href="https://github.com/nguyenhaidang01/Media_Player_Application/">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhaidang01&repo=Media_Player_Application&theme=onedark" />
+
+</a>
